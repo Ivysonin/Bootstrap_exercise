@@ -1,0 +1,29 @@
+DICA
+	sempre consulta a documentaçãp: https://getbootstrap.com/
+
+Div Classes
+	container-fluid: Ajusta à largura total da página.
+
+	mt-2: Adiciona um espaçamento.
+
+	border: Adiciona uma borda.
+
+Estruturas:
+	row: Para criar linhas.
+
+	justify-content-between: Alinha os elementos com espaço entre eles.
+
+	col-num md-num: Define a posição das colunas dependendo do tamanho da tela (por exemplo: col-6 md-4).
+
+Classes úteis
+	bg: Define a cor de fundo.
+
+	text: Define a cor do texto.
+
+	btn: Cria botões estilizados.
+
+	table: Cria tabelas responsivas.
+
+	align: Alinha textos.
+
+	justify-content: Alinha colunas dentro da linha.
